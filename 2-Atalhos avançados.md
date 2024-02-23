@@ -20,8 +20,6 @@ Reconstruir uma ação: Ctrl + Y
 
 Removendo espaços em branco: Ctrl + K + Ctrl + X
 
-Removendo espaços em branco: Ctrl + K + Ctrl + X
-
 Copiando linha para baixo ou cima: Shift + Alt + tecla de cima ou baixo.
 
 Indo para início e fim do arquivo: Ctrl + End ou Ctrl + Home
@@ -32,9 +30,9 @@ Buscando em arquivos: Ctrl + Shift + F
 
 Deletando palavras-traz: Ctrl + Backspace 
 
-Deletando palavras-frente: Ctrl Ctrl + Delete
+Deletando palavras-frente: Ctrl + Delete
 
-Selecionando uma palavra: Ctel + Shift + Seleção nas setas
+Selecionando uma palavra: Ctrl + Shift + Seleção nas setas
 
 Pulando palavras: Ctrl + setas
 

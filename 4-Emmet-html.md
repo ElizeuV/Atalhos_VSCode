@@ -1,3 +1,5 @@
+> Documentação: https://docs.emmet.io/abbreviations/syntax/
+
 #### Criando tags (atalhos): hdr, btn, ftr etc...
 ````
 
